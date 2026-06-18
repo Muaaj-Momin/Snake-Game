@@ -131,7 +131,7 @@ section .infos{
 }
 
 .snake-head {
-    background-image: url(/Snake.jpg);
+    background-image: url(Snake.jpg);
     background-size: 99%;
     border-radius: 8px;
     background-repeat: no-repeat;
