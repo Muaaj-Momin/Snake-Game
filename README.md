@@ -7,3 +7,6 @@ A classic Snake game built with vanilla HTML, CSS and JavaScript
 - ⏱️ Live timer tracking your game duration
 - 🏆 High score saved locally (persists after refresh)
 - ⏸️ Pause and resume with spacebar
+
+## Live Demo Link -
+https://muaaj-momin.github.io/Snake-Game/
